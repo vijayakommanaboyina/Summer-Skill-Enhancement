@@ -1,0 +1,100 @@
+    4  ls
+    5  cd Desktop
+    6  pwd
+    7  ls
+    8  cd problemsolvig and progranmming
+    9  cd problemsolvigandprogranmming
+   10  cd problemsolvigandprogranmming
+   11  cd problemsolvigandprogramming
+   12  cd problemsolvingand programminh
+   13  cd problemsolvingandprogramming
+   14  pwd
+   15  cd
+   16  cd Desktop
+   17  rm -r prob
+   18  ls
+   19  mv problemsolvingandprogramming/Problem_Solving_and_Programming
+   20  mv problemsolvingandprogramming/ Problem_Solving_and_Programming
+   21  ls
+   22  pwd
+   23  cd Problem_Solving_and_Programming
+   24  pwd
+   25  mkdir git
+   26  pwd
+   27  ls
+   28  cd git
+   29  pwd
+   30  git --version
+   31  git --config
+   32  git config
+   33  git config --list
+   34  git config user.name
+   35  git config --global user.name "gitam"
+   36  git config user.name
+   37  git -config user.email
+   38  git config user.email
+   39  git config user.email abc@gmail.com
+   40  git config --global user.email abc@gmail.com
+   41  git config user.email
+   42  touch file1.txt
+   43  git status
+   44  history 100 > gitcommands.txt
+   45  git --version
+   46  git --help
+   47  pwd
+   48  ls
+   49  cd PhythonNotebooks
+   50  pwd
+   51  cd Desktop
+   52  cd Problem_Solving_and_Programming
+   53  mkdir git
+   54  ls
+   55  pwd
+   56  cd git
+   57  pwd
+   58  git --version
+   59  git --config
+   60  git config
+   61  git config --list
+   62  git config user.name
+   63  git config --global user.name "vijayakommanaboyina"
+   64  git config user.name
+   65  git config --global user.mail vijayakommanaboyina@gmail.com
+   66  git config --global user.mail
+   67  touch file1.txt
+   68  ls
+   69  git init
+   70  git status
+   71  git add file1.txt
+   72  git status
+   73  git commit -m "first file commit"
+   74  git status
+   75  echo "data in line1" > file1.txt
+   76  echo "data in line1"
+   77  cat file1.txt
+   78  git add file1.txt
+   79  git add file1.txt
+   80  git commit -m "file1 second commit"
+   81  git status
+   82  git log
+   83  touch file{2..10.}.txt
+   84  ls
+   85  git status
+   86  git add file{2..10}.txt
+   87  touch file{2..10}.txt
+   88  ls
+   89  git status
+   90  git add file{2..10}.txt
+   91  git status
+   92  git reset HEAD file{2..10}.txt
+   93  git status
+   94  git add file{2..10}.txt
+   95  git status
+   96  git commit -m "file2 to 10 commit"
+   97  git log
+   98  git cloneclone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019/tree/master/PythonProgramming/NotebookTemplate
+   99  clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019/tree/master/PythonProgramming/NotebookTemplate
+  100  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019/tree/master/PythonProgramming/NotebookTemplate
+  101  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+  102  history 10
+  103  history 100 > gitcommands.txt
